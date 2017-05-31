@@ -1,0 +1,9 @@
+[
+{
+	"modid": "eyeq_exitovertime",
+	"name": "ExitOverTime",
+	"description": "指定時間経過後にゲーム終了",
+	"authorList": ["eyeq"],
+	"credits": ""
+}
+]
